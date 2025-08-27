@@ -41,10 +41,12 @@ That's it! 🎉 Your bot will start sending daily emails automatically.
 
 ## �� Project Structure
 
+```
 src/trigger/
 ├── bloomberg-originals.ts # Main bot (runs daily)
 ├── get-youtube-videos.ts # Gets videos from YouTube
 ├── extract-transcripts-task.ts # Summarizes videos
 └── create-email.ts # Creates the email
+```
 
 *Made with ❤️ for keeping up with Bloomberg content*

@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@ai-sdk/openai": "^2.0.10",
+    "@react-email/render": "^1.2.0",
+    "@trigger.dev/sdk": "4.0.0",
+    "ai": "^5.0.10",
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^16.0.0",
+    "googleapis": "^155.0.1",
+    "nodemailer": "^6.9.0",
+    "openai": "^4.0.0",
+    "resend": "^6.0.1",
+    "youtube-api": "^3.0.1",
+    "youtube-transcript": "^1.2.1",
+    "youtube-transcript-api": "^1.1.2"
+  },
+  "devDependencies": {
+    "@trigger.dev/build": "4.0.0"
+  }
+}
